@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961861135701",
+    "firebase_url": "https://sync-clock-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sync-clock",
+    "storage_bucket": "sync-clock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961861135701:android:427d43c8996e974e5293dc",
+        "android_client_info": {
+          "package_name": "com.app.syncclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocI6LzsV1gRpSz9A2Bwt5GjAyECA_Amw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

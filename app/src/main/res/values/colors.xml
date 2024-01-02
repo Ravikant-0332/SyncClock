@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lime_50">#F9FBE7</color>
+    <color name="lime_200">#E6EE9C</color>
+    <color name="lime_500">#CDDC39</color>
+    <color name="lime_700">#AFB42B</color>
+    <color name="lime_900">#827717</color>
+    <color name="lime_A700">#AEEA00</color>
+
+    <color name="brown_50">#EFEBE9</color>
+    <color name="brown_200">#BCAAA4</color>
+    <color name="brown_500">#795548</color>
+    <color name="brown_700">#5D4037</color>
+    <color name="brown_900">#3E2723</color>
+
+
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_900">#212121</color>
+
+    <color name="button_color">@color/lime_700</color>
+    <color name="share_button_color">@color/brown_700</color>
+    <color name="main_bg_color">@color/lime_50</color>
+</resources>

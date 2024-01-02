@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SyncClock" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/lime_500</item>
+        <item name="colorPrimaryVariant">@color/lime_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gray_200</item>
+        <item name="colorSecondaryVariant">@color/gray_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.SyncClock.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SyncClock.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SyncClock.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ProgressBarWhite" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="ProgressBarBlue" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/lime_A700</item>
+    </style>
+
+</resources>
